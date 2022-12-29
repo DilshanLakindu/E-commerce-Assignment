@@ -78,14 +78,14 @@ function SubCategory({SubCategory}) {
               sx={{ color: "rgba(255, 255, 255, 0.54)" }}
               aria-label={`info about `}
                >
-               <CreateIcon sx={{color:"white"}}/>
+               {/* <CreateIcon sx={{color:"white"}}/> */}
               </IconButton>
 
               <IconButton
               sx={{ color: "rgba(255, 255, 255, 0.54)" }}
               aria-label={`info about `}
                >
-               <DeleteIcon sx={{color:"white"}}/>
+               {/* <DeleteIcon sx={{color:"white"}}/> */}
               </IconButton>
               </>
              }

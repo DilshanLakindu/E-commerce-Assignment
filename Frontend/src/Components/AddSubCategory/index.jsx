@@ -302,7 +302,7 @@ export default function AddSubCategory() {
                 alignItems="center"
               >
                 <ImageUploadButton component="label">
-              <input type="file" hidden onChange={handleChange}  />
+              <input type="file" hidden onChange={handleImage}  />
               {image ? (
                 <img
                   alt="forum_post"

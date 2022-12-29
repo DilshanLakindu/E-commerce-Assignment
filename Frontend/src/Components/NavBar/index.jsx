@@ -15,7 +15,7 @@ import AdbIcon from '@mui/icons-material/Adb';
 import NavBarList from '../NavBarList';
 import ProductMenu from '../Common/productMenu';
 
-const pages = [ 'Pricing', 'Blog'];
+const pages = [ ];
 
 
 function ResponsiveAppBar() {
